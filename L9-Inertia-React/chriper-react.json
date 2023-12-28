@@ -1,0 +1,87 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"chriper-react"},
+{"type":"table","name":"chirps","database":"chriper-react","data":
+[
+{"id":"1","user_id":"1","message":"Amet sequi sint vel dolor quia enim et. Aut enim sit omnis et vero. Illum laborum sint magni iure.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"2","user_id":"1","message":"Est quod voluptas similique voluptatibus eos. Iste reiciendis quidem enim saepe non. Quo provident id impedit asperiores quisquam iure voluptas.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"3","user_id":"1","message":"Perspiciatis facilis ut aut voluptatem. Voluptates cumque hic ullam quas qui tempora officiis. Vel et incidunt aliquid et. Accusantium vel qui repellendus commodi perferendis.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"4","user_id":"1","message":"Ut commodi et nesciunt impedit officiis aut. Magni vero saepe est optio ut rem rem. Est unde sit eum veniam accusantium et. Blanditiis tempore dolorem neque nesciunt totam repellendus quo.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"5","user_id":"1","message":"Sapiente tenetur omnis quaerat. Dolores molestias qui corrupti quidem nobis nisi. Consectetur possimus omnis temporibus.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"6","user_id":"1","message":"Omnis voluptatibus eveniet vero ipsum blanditiis vel cumque. Impedit est aut esse occaecati voluptas autem optio. Vero unde et nulla voluptas quis. Natus ipsa consectetur nulla est.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"7","user_id":"1","message":"Cum eos ex molestiae labore quia placeat. Enim quam suscipit iusto quos et doloribus cumque. Nisi enim itaque illo corporis qui voluptas mollitia.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"8","user_id":"1","message":"Vel nihil tenetur tenetur at excepturi ut. Ut eum doloremque fugiat eligendi et.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"9","user_id":"1","message":"Ea eveniet esse sed et vitae. Aut vitae accusantium quibusdam laboriosam id quia aperiam sapiente. Numquam eos nulla assumenda sint. Magni asperiores quis ad aut velit.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"10","user_id":"1","message":"Quo rerum eum optio culpa qui. Est voluptatibus est quaerat necessitatibus amet quia dignissimos. Eum praesentium adipisci eveniet alias illum. Debitis recusandae non ut illum ea id.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"11","user_id":"1","message":"Ut non ex maiores distinctio omnis quasi. Et ratione soluta consequatur commodi ullam iste illo. Aut corrupti quo explicabo aut nihil est. Odio quod dolorem et quas inventore ea.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"12","user_id":"1","message":"Eaque ullam error repudiandae error omnis ipsum. Accusamus harum quo tempora quos illo. Amet sit iste magnam veritatis nemo. Ducimus tempora perferendis cumque harum necessitatibus voluptatum.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"13","user_id":"1","message":"Labore debitis exercitationem perferendis corporis. Voluptas doloremque accusamus est iure voluptas.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"14","user_id":"1","message":"Dolorem dolorem in quidem excepturi ut. Amet qui commodi nisi vitae deleniti. Ut non dolorem velit quisquam.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"15","user_id":"1","message":"Velit dolorem in earum et vitae molestiae ea. Dolorem a a qui temporibus a. Autem in eum debitis modi molestiae iusto id. Asperiores qui cum sed aut et. Error harum doloribus quidem a voluptas quis.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"16","user_id":"1","message":"Illo dolores perferendis nihil et sunt quidem. Laborum rerum ut eveniet unde. Quod repellendus consequatur eius.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"17","user_id":"1","message":"Ducimus voluptas libero molestiae. Fugiat sapiente quibusdam placeat doloremque sit. Aperiam optio maiores ut vel autem non omnis. Nostrum cumque aut voluptas laudantium modi similique dolor.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"18","user_id":"1","message":"Possimus a nulla aut. Maxime ea et facere possimus ratione. Hic aliquam ea quia illum. Fuga laboriosam velit doloribus tempore vel veritatis. Atque eveniet et id blanditiis.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"19","user_id":"1","message":"Quia velit quam sunt rerum qui. Et iste eius harum temporibus corrupti ut perspiciatis. Consequuntur autem voluptas tempora illo dicta ut debitis. Et voluptatem est aut temporibus ullam rerum.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"20","user_id":"1","message":"Sunt rerum consequatur corporis vel omnis possimus. Rerum impedit voluptatem sed qui quia sunt.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"21","user_id":"1","message":"Neque tenetur assumenda saepe et corrupti sunt. Rem neque accusantium omnis. Eum eveniet qui delectus corrupti.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"22","user_id":"1","message":"Rerum non consequatur excepturi odit. Illum rerum expedita impedit expedita doloribus. Consequatur similique earum dolorum earum vel et.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"23","user_id":"1","message":"Sint doloribus tempore rerum iusto sit non. Maiores perspiciatis necessitatibus dolor. Praesentium architecto ipsa molestiae aut. Odit sapiente similique laborum sapiente.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"24","user_id":"1","message":"Hic placeat et praesentium dolorem quasi quia. Eos et vero non consequatur natus.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"25","user_id":"1","message":"Et eligendi ad velit quidem quia earum veniam. Hic ipsum illum iure libero rerum. Enim et voluptatem ut quaerat possimus deleniti. Ipsa quas nobis voluptatem praesentium laudantium.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"26","user_id":"1","message":"Ipsum libero dolorem neque ex nulla dolor. Omnis at nisi tempore deserunt. Architecto vel et cum quis.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"27","user_id":"1","message":"Possimus sed sit occaecati iure culpa velit temporibus. Dolorum explicabo sit dolorem culpa. Velit pariatur occaecati dolores maxime repellat.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"28","user_id":"1","message":"Eum recusandae nemo exercitationem odit ut sunt. Id ut iusto voluptatem rerum sunt. Sit odit velit aut hic et unde recusandae ratione. Et quia sit provident magni.","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"},
+{"id":"29","user_id":"1","message":"Animi accusamus repudiandae nulla illo et ratione blanditiis optio. Debitis recusandae aut placeat qui maiores hic. Sunt dolorum ex quis.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"30","user_id":"1","message":"Error blanditiis magni iste incidunt. Placeat provident perferendis non et. Qui corrupti sequi non sint. Reprehenderit ut sit optio suscipit quia ut.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"31","user_id":"1","message":"Et et id non rerum est ut doloribus. In minus reiciendis saepe quia. Rem necessitatibus necessitatibus incidunt dolores ipsa ut.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"32","user_id":"1","message":"Sed dolore ea dolore voluptas unde. Natus provident a corrupti laudantium quia dolores. Perspiciatis sed sed velit labore nam.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"33","user_id":"1","message":"Dolores odit corporis consectetur et ex animi. Vero dolorem quis laborum alias soluta suscipit qui nihil. Voluptatibus quae laudantium omnis in nobis.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"34","user_id":"1","message":"Sit provident vitae voluptatem. Sit blanditiis repudiandae aut quasi. Corrupti minus qui suscipit nihil aspernatur ducimus non.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"35","user_id":"1","message":"Velit accusamus in consequatur excepturi. Est quas ducimus vel eius. In maiores qui fugiat harum quia qui provident.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"36","user_id":"1","message":"Provident eius praesentium maiores sed velit tempore possimus. Pariatur sed quia iste quia nihil. Odit quam libero quis voluptates cum laudantium.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"37","user_id":"1","message":"Illum corrupti ipsa possimus. Atque aut quod voluptas cumque enim quisquam. Aperiam aut assumenda est rem. Aperiam est tempora tenetur fugit necessitatibus quae atque voluptatem.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"38","user_id":"1","message":"Sed et nam numquam ut. Tempore qui molestiae ut omnis culpa fugit. Fugit quia similique aut doloribus ullam sint. Alias aut qui quasi corporis in et.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"39","user_id":"1","message":"Iste voluptas perspiciatis eius veniam ratione quibusdam quam cumque. Eos consequatur aut qui et deleniti. Occaecati aliquam qui cumque suscipit veritatis.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"40","user_id":"1","message":"Eos deserunt voluptas sint. Aliquid et architecto quod hic minus magni facilis. Quam tempora quos nemo quibusdam. Vel et repellendus quasi quaerat atque adipisci.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"41","user_id":"1","message":"Qui vitae possimus est. Distinctio repudiandae accusamus nihil aspernatur officiis eaque ex.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"42","user_id":"1","message":"In molestiae commodi quis nisi. Doloremque quod qui perspiciatis voluptas dolore. Facilis sed molestiae officia corporis enim error quo.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"43","user_id":"1","message":"Ut omnis rerum soluta quia. A et sunt consequatur nihil quaerat. Et fugiat nobis ducimus eius.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"44","user_id":"1","message":"Reprehenderit repudiandae eius et qui. Alias quas consequuntur nihil odio est id temporibus. Doloremque est earum dolorum molestias fugiat laudantium.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"45","user_id":"1","message":"Ea omnis sint qui dolore. Qui earum quisquam et rerum esse et libero.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"46","user_id":"1","message":"Voluptates velit praesentium autem et maxime voluptas eveniet soluta. Distinctio aperiam ut vel atque.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"47","user_id":"1","message":"Soluta ut minus ipsum ducimus. At excepturi et laboriosam cum delectus voluptatem sed eum. Iusto saepe hic animi illo quod quae. Sunt sed in sed sunt voluptas minima numquam.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"48","user_id":"1","message":"Possimus et rem officia aspernatur rerum ut. Non quibusdam quas cumque nihil. Delectus ratione dolorem error labore. Commodi quod molestias illo tenetur.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"49","user_id":"1","message":"Vero animi est voluptas. Pariatur enim molestias cum quasi. Earum aperiam aperiam voluptatem aut. Ea aut natus laborum dignissimos.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"},
+{"id":"50","user_id":"1","message":"Labore qui eos deserunt repellat labore nihil et. Commodi ea voluptates perspiciatis nobis labore quia. Error nisi repudiandae iusto voluptatem. Nemo dolor cum eaque.","created_at":"2022-10-30 07:55:05","updated_at":"2022-10-30 07:55:05"}
+]
+}
+,{"type":"table","name":"failed_jobs","database":"chriper-react","data":
+[
+
+]
+}
+,{"type":"table","name":"migrations","database":"chriper-react","data":
+[
+{"id":"1","migration":"2014_10_12_000000_create_users_table","batch":"1"},
+{"id":"2","migration":"2014_10_12_100000_create_password_resets_table","batch":"1"},
+{"id":"3","migration":"2019_08_19_000000_create_failed_jobs_table","batch":"1"},
+{"id":"4","migration":"2019_12_14_000001_create_personal_access_tokens_table","batch":"1"},
+{"id":"5","migration":"2022_10_30_073448_create_chirps_table","batch":"1"}
+]
+}
+,{"type":"table","name":"password_resets","database":"chriper-react","data":
+[
+
+]
+}
+,{"type":"table","name":"personal_access_tokens","database":"chriper-react","data":
+[
+
+]
+}
+,{"type":"table","name":"users","database":"chriper-react","data":
+[
+{"id":"1","name":"Chirper","email":"admin.chirp@gmail.com","email_verified_at":"2022-10-30 07:55:04","password":"$2y$10$xQUFoAuKD3bRX7DSaLV7Bu6h0lxxkPhjeWS3GYDganDgVcJoV.ViK","remember_token":"foAPDjEaDg","created_at":"2022-10-30 07:55:04","updated_at":"2022-10-30 07:55:04"}
+]
+}
+]
